@@ -3835,9 +3835,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vonic@^2.0.0-alpha.13:
-  version "2.0.0-alpha.13"
-  resolved "http://registry.npm.taobao.org/vonic/download/vonic-2.0.0-alpha.13.tgz#7fe20205dc92819de98ea15ce2a75bafe8c864cd"
+vonic@^2.0.0-alpha.15:
+  version "2.0.0-alpha.15"
+  resolved "http://registry.npm.taobao.org/vonic/download/vonic-2.0.0-alpha.15.tgz#3a17e29bd1fea5ed446763b85740e1c2699a89d8"
   dependencies:
     axios "^0.15.3"
     fastclick "^1.0.6"

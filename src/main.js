@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import Vonic from 'vonic/src/index.js'
+import Vonic from 'vonic'
 
 // Page Components
 import Index from './components/Index.vue'
