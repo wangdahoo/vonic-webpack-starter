@@ -2650,7 +2650,7 @@ oauth-sign@~0.8.1:
   version "0.8.2"
   resolved "http://registry.npm.taobao.org/oauth-sign/download/oauth-sign-0.8.2.tgz#46a6ab7f0aead8deae9ec0565780b7d4efeb9d43"
 
-object-assign@^4.0.1, object-assign@^4.1.0:
+object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
   version "4.1.1"
   resolved "http://registry.npm.taobao.org/object-assign/download/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
 
@@ -3835,12 +3835,13 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vonic@^2.0.0-alpha.15:
-  version "2.0.0-alpha.15"
-  resolved "http://registry.npm.taobao.org/vonic/download/vonic-2.0.0-alpha.15.tgz#3a17e29bd1fea5ed446763b85740e1c2699a89d8"
+vonic@^2.0.0-alpha.22:
+  version "2.0.0-alpha.22"
+  resolved "http://registry.npm.taobao.org/vonic/download/vonic-2.0.0-alpha.22.tgz#98a6e770d1ffe4226ce0addefbd3b82b2ea0450c"
   dependencies:
     axios "^0.15.3"
     fastclick "^1.0.6"
+    object-assign "^4.1.1"
     vue "^2.1.8"
     vue-router "^2.1.0"
     vue-scroller "^2.1.2"

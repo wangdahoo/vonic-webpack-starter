@@ -9,7 +9,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "vonic": "^2.0.0-alpha.15"
+    "vonic": "^2.0.0-alpha.22"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
