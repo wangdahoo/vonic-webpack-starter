@@ -1,21 +1,22 @@
-# vonic-webpack-demo
+# How to Use
 
-> A vonic project with webpack template by vue-cli.
-
-## Build Setup
+- quick start
 
 ``` bash
-# install dependencies
-yarn install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+git clone https://github.com/wangdahoo/vonic-webpack-starter.git
+cd vonic-webpack-starter
+npm install -g yarn
+yarn
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+- development
+
+```bash
+npm run dev
+```
+
+- build
+
+```bash
+npm run build
+```
