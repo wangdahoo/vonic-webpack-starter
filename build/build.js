@@ -21,7 +21,7 @@ shell.config.silent = true
 shell.cp('-R', 'static/*', assetsPath)
 
 // vonic assets
-var vonicAssetsPath = path.join(config.build.assetsRoot, 'vonic')
+var vonicAssetsPath = path.join(config.build.assetsRoot, 'static', 'vonic')
 shell.mkdir('-p', vonicAssetsPath)
 shell.cp('-R', 'node_modules/vonic/dist/*', vonicAssetsPath)
 shell.config.silent = false
